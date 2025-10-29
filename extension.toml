@@ -1,0 +1,6 @@
+id = "liss-lang"
+name = "LISS Language"
+version = "0.0.1"
+authors = ["osdrv"]
+description = "LISS language support for Zed."
+repository = "https://github.com/osdrv/zed-extension-liss.git"
