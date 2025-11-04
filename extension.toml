@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["osdrv"]
 description = "LISS language support for Zed."
 repository = "https://github.com/osdrv/zed-extension-liss.git"
+
+[grammars.liss]
+repository = "https://github.com/osdrv/tree-sitter-liss"
+commit = "ab3bbc6185668b29c3ee63eb8f325967dbd5e557"
