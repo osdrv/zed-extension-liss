@@ -8,4 +8,4 @@ repository = "https://github.com/osdrv/zed-extension-liss.git"
 
 [grammars.liss]
 repository = "https://github.com/osdrv/tree-sitter-liss"
-commit = "ab3bbc6185668b29c3ee63eb8f325967dbd5e557"
+commit = "392e2680b3e98efdf9738a3377a92c4bb961e3e3"
